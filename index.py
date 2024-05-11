@@ -17,7 +17,7 @@ font_size = 200
 font = ImageFont.truetype(font_path, font_size)
 
 
-name_position = (620,433)
+name_position = (550,433)
 
 
 
